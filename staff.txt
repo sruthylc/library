@@ -1,0 +1,4 @@
+staff name:jayathi mis
+subject:bigdata
+department:mca
+college:mcet
