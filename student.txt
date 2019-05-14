@@ -1,0 +1,4 @@
+name:sruthy lc
+clss:s4
+branch:mca
+clg:mect
